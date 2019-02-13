@@ -1,0 +1,33 @@
+
+#clock_content{
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    margin-top: 200px;
+    margin-left: 50%;
+    transform: translate(-50%);
+}
+
+#clock{
+    position: absolute;
+width: 500px;
+height: 500px;
+}
+
+#hour{
+position: absolute;
+height: 500px;
+width: 500px;
+}
+
+#minute{
+   position: absolute;
+   height: 500px;
+   width: 500px;
+}
+
+#second{
+position: absolute;
+height: 500px;
+width: 500px;
+}
